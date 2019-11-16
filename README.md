@@ -9,6 +9,7 @@ Dependencies:
 
 	JUnit
 	Java 1.8 ++
+	Maven 3.X
 	
 	
 To Build: 
@@ -39,6 +40,8 @@ This is done in the following way.
   
   - The first interface getClusters is intended to be implemented by returning to the application the Clusters found given the provided data points.
   - The second interface is intended to be implemented by returning the Theta (Center) of each cluster found.
+  
+  
   
   
   
